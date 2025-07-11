@@ -13,11 +13,6 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
 
 </header>
 
-<!--
-  <<< Author notes: Course start >>>
-  Include start button, a note about Actions minutes,
-  and tell the learner why they should take the course.
--->
 
 ## Welcome
 
@@ -42,16 +37,6 @@ In this course, you will:
 1. Scroll to the top of the page and click the down arrow next to the Fork button. Then click 'Create a new fork' to fork this repository.
 2. Right-click **Start course** and open the link in a new tab.
 
-<!-- For start course, run in JavaScript:
-'https://github.com/new?' + new URLSearchParams({
-  template_owner: 'skills',
-  template_name: 'communicate-using-markdown',
-  owner: '@me',
-  name: 'skills-communicate-using-markdown',
-  description: 'My clone repository',
-  visibility: 'public',
-}).toString()
--->
 
 [![start-course](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template_owner=skills&template_name=communicate-using-markdown&owner=%40me&name=skills-communicate-using-markdown&description=My+clone+repository&visibility=public)
 
